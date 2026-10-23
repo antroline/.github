@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/bonsai-antroline.gif" width="220" alt="A pixel-art bonsai tree" />
 
-  # Hey, I'm Antroline 👋
+  # Hey, I'm Zulal Eren 👋
 
   **Full-Stack & Blockchain Developer**
 
